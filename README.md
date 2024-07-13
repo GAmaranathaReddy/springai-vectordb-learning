@@ -8,9 +8,9 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#VectorDB Integration">Vector DB Integration</a> •
-  <a href="#Run the server">Start Application</a> •
-  <a href="#Swagger UI">Swagger UI</a> •
+  <a href="#vector-DB-integration">Vector DB Integration</a> •
+  <a href="#start-application">Start Application</a> •
+  <a href="#swagger-ui">Swagger UI</a> •
   <a href="#contributors">Contributors</a>
 </p>
 
