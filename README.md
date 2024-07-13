@@ -28,7 +28,7 @@ You should follow the steps in each of the following section according to your n
 - [SAP HANA](https://docs.spring.io/spring-ai/reference/api/vectordbs/hanadb-provision-a-trial-account.html)
 - [Neo4J](https://gamaranathareddy.github.io/LLM-RAG-Chatbot/neo4j/setup/)
 - [Git](https://git-scm.com/downloads)
-- 
+  
 
 ### Clone GIT Repo
 
@@ -130,9 +130,9 @@ To run the application, run the following command in a terminal window (in the c
 ### Running on IDE
 - Right click on project , select on run icon slick on spring boot application
   
-  ![Run Springboot](../images/hanadbswagger.jpeg)
+  ![Run Springboot](src/images/springbootrun.jpeg)
 
 ## Swagger UI
 Once enter url in broswer automatically display swagger page
 
-![SwaggerUI](../images/springbootrun.jpeg)
+![SwaggerUI](src/images/hanadbswagger.jpeg)
