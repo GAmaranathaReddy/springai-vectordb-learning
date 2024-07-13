@@ -10,7 +10,7 @@
   <a href="#getting-started">Getting Started</a> •
   <a href="#vector-DB-integration">Vector DB Integration</a> •
   <a href="#start-application">Start Application</a> •
-  <a href="#swagger-ui">Swagger UI</a> •
+  <a href="#swagger-ui">Swagger UI ( Demo ) </a> •
   <a href="#contributors">Contributors</a>
 </p>
 
