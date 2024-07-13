@@ -137,6 +137,5 @@ Once enter url in broswer automatically display swagger page
 
 ![SwaggerUI](src/images/hanadbswagger.jpeg)
 
-Swagger UI demo on youtube:
-![SwaggerUI Demo](https://youtu.be/xI9pA4p6u3Y)
+Swagger UI Youtube Demo link : [SwaggerUI Demo](https://youtu.be/xI9pA4p6u3Y)
 
